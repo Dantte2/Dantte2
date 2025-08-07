@@ -1,24 +1,23 @@
 # 👋 Hi there! I'm Dino sassi
 
-Welcome to my GitHub profile! I'm a passionate web developer who loves building clean and creative websites with HTML, CSS, and a touch of JavaScript.
+Welcome to my GitHub profile! I'm a beginner web developer eager to learn and grow. I enjoy building clean and creative websites using HTML, CSS, and a bit of JavaScript.
 
 ---
 
 ## 🌐 Check Out My Portfolio Website
+ 
+------------------------------------------------------
 
-🚀 **Live Here:**  
-[https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)
+-----------------------------------------------------
 
-![Website Preview](https://yourusername.github.io/portfolio/screenshot.png)
-
-> ✨ Built with just HTML, CSS, and pure creativity.
+> ✨ -----------------------------
 
 ---
 
 ## 💡 What I Use
 
-- 🧱 HTML5
-- 🎨 CSS3 (Flexbox, Grid, Animations)
+- 🧱 HTML
+- 🎨 CSS
 - ⚡ JavaScript (basic interactivity)
 - 🔧 VS Code & GitHub
 
@@ -28,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves building 
 
 | Project | Description | Live Link |
 |--------|-------------|------------|
-| **Portfolio Website** | Personal site with responsive layout and CSS animations | [View Site](https://yourusername.github.io/portfolio) |
+| **personal Website** | Personal project with responsive layout and CSS animations | ---------------------------- |
 | **Coming Soon** | More web projects to be added here | Stay tuned! |
 
 ---
@@ -41,8 +40,8 @@ Welcome to my GitHub profile! I'm a passionate web developer who loves building 
 
 ## 📫 Let's Connect
 
-- ✉️ Email: yourname@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- ✉️ Email: dino.sassi1@hotmail.fi 
+- 💼 LinkedIn: -------------------------------------------------
 
 Thanks for visiting!
 
