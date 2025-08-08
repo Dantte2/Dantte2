@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a beginner web developer eager to learn and gr
 
 -----------------------------------------------------
 
-> ✨ file:///C:/Users/Dino/Desktop/portfolio/home.html#projects
-
+> ✨ <link>file:///C:/Users/Dino/Desktop/portfolio/home.html#projects
+</link>
 ---
 
 ## 💡 What I Use
