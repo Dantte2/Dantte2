@@ -1,12 +1,11 @@
 # 👋 Hi there! I'm Dino sassi
 
-Welcome to my GitHub profile! I'm a beginner web developer eager to learn and grow. I enjoy building clean and creative websites using HTML, CSS, and a bit of JavaScript.
+<p align="center"> Welcome to my GitHub profile! I'm a beginner web developer eager to learn and grow. I enjoy building clean and creative websites using HTML, CSS, and a bit of JavaScript.>
 
----
 
 ## 🌐 Check Out My Portfolio Website
  
-------------------------------------------------------
+<a href="https://dantte2.github.io/portfolio/" target="-blank">link text</a>
 
 -----------------------------------------------------
 
