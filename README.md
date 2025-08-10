@@ -39,7 +39,6 @@
 ## 📫 Let's Connect
 
 - ✉️ Email: dino.sassi1@hotmail.fi 
-- 💼 LinkedIn: -------------------------------------------------
 
 Thanks for visiting!
 
