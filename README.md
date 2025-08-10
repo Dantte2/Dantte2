@@ -5,13 +5,9 @@
 
 ## 🌐 Check Out My Portfolio Website
  
-<a href="https://dantte2.github.io/portfolio/" target="-blank">link text</a>
+<a href="https://dantte2.github.io/portfolio/" target="_blank">Portfolio website</a>
 
 -----------------------------------------------------
-
-> ✨ <link>file:///C:/Users/Dino/Desktop/portfolio/home.html#projects
-</link>
----
 
 ## 💡 What I Use
 
