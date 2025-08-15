@@ -26,7 +26,7 @@
 | Project | Description | Live Link |
 |--------|-------------|------------|
 | **personal Website** | Personal project with responsive layout and CSS animations | ---------------------------- |
-| **Coming Soon** | More web projects to be added here | Stay tuned! |
+| Qrcode | FrontendQrcodetestthing | [Stay tuned! ](https://dantte2.github.io/qrkoodi/) |
 
 ---
 
