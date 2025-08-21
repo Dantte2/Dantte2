@@ -27,7 +27,7 @@
 |--------|-------------|------------|
 | **personal Website** | Personal project with responsive layout and CSS animations | ---------------------------- |
 | Qrcode | FrontendQrcodetestthing | [Link! ](https://dantte2.github.io/qrkoodi/) |
-| Bananaclicker | cookieclickerClone | [Link! ][(https://dantte2.github.io/bananas2/) |
+| Bananaclicker | cookieclickerClone | [Link! ](https://dantte2.github.io/bananas2/) |
 
 ---
 
