@@ -21,7 +21,7 @@
 
 | Project | Description | Live Link |
 |--------|-------------|------------|
-| **personal Website** | Personal project with responsive layout and CSS animations | ---------------------------- |
+| Godot Game Project | First Godot Game | [Link! ](https://github.com/Dantte2/spacegame3v2) |
 | Qrcode | FrontendQrcodetestthing | [Link! ](https://dantte2.github.io/qrkoodi/) |
 | Bananaclicker | cookieclickerClone | [Link! ](https://dantte2.github.io/bananas2/) |
 
