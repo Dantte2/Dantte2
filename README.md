@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Dino sassi
 <p align="center">
-  Welcome to my GitHub profile! I'm a beginner web developer eager to learn and grow. I enjoy building clean and creative websites using HTML, CSS, and a bit of JavaScript.
+  Welcome to my GitHub profile! I'm a web and game developer passionate about building creative projects. I work with HTML, CSS, and JavaScript, and I enjoy creating interactive web apps with     React. I also love making games using Godot and GDScript. Always eager to learn and explore new technologies!
 </p>
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHUzZHAwMDllODY1OHdmZXhtNDJmNWc0dmE1YmVrc2YwZnZ3MG1wbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="300px">
