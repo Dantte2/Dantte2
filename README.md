@@ -13,8 +13,9 @@
 - 🧱 HTML
 - 🎨 CSS
 - ⚡ JavaScript (basic interactivity)
+- 🎮 Godot Engine
+- 🖋️ GDScript
 - 🔧 VS Code & GitHub
-
 ---
 
 ## 🛠️ Projects
